@@ -3,7 +3,7 @@
 
 ### Interface :
 
-![Interface](img/interface_temp.jpg)
+![Interface](img/interface_temp.png)
 
 Ce projet est un système de surveillance de la météo et de la température qui utilise un **ESP32** connecté à un **Raspberry Pi 5** pour collecter et afficher des données en temps réel telles que la température, l'humidité et les conditions météorologiques. Le système utilise un capteur de température et d'humidité **DHT22** connecté à l'ESP32, qui est relié au Raspberry Pi via USB. Le Raspberry Pi exécute également une interface graphique basée sur **PyQt5** pour visualiser les données et les conditions météorologiques actuelles récupérées depuis l'**API OpenWeatherMap**.
 
