@@ -65,14 +65,8 @@ Le Raspberry Pi utilise une **interface PyQt5** pour afficher la **température,
 
 ---
 
-**├── main.py                    # Application principale PyQt5 pour afficher les données
-├── meteo.py                   # Module pour récupérer les données météo depuis OpenWeatherMap
-├── requirements.txt           # Liste des dépendances Python nécessaires
-├── .env                       # Fichier de configuration pour les variables d'environnement
-├── img/                       # Dossier contenant les images utilisées pour l'interface
-│   ├── meteo/                 # Images pour différents types de météo (pluie, soleil, etc.)
-│   └── error_icon.png         # Icône d'erreur (si les données météo ne peuvent pas être récupérées)
-└── README.md                  # Ce fichier**
+![Projet](img/projet.png)
+             
 
 ### Problèmes connus
 Problèmes de connexion série : Si l'application ne peut pas lire les données de l'ESP32, assurez-vous que le port série est correctement configuré et que l'ESP32 est bien connecté.
