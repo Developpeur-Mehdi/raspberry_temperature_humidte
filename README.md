@@ -28,7 +28,7 @@ Ce projet est un système de surveillance de la météo et de la température qu
 ### 1. Cloner le repository
 
 ```bash
-git clone https://github.com/votre-utilisateur/nom-du-repository.git
+git clone https://github.com/Developpeur-Mehdi/raspberry_temperature_humidte.git
 cd nom-du-repository
 ```
 
