@@ -64,7 +64,7 @@ class WeatherWidget(QWidget):
     def __init__(self, parent=None):
         super().__init__(parent)
         self.setFixedSize(340, 400)  # Taille du widget
-        self.city = "l'herbergement"  # Ville par défaut
+        self.city = "Paris"  # Ville par défaut
         self.weather_data = None
 
         self.weather_images = {
